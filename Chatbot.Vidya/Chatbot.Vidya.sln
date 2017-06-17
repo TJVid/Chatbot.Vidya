@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatbot.Vidya", "Chatbot.Vidya\Chatbot.Vidya.csproj", "{1620D3F7-5A17-436A-B137-B6EF1E95AB87}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatbot.Vidya.Tests", "Chatbot.Vidya.Tests\Chatbot.Vidya.Tests.csproj", "{6A6BED8C-32D7-40AB-B7FE-34EECDB486E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Angular2.Kudvenkat", "Test.Angular2.Kudvenkat\Test.Angular2.Kudvenkat.csproj", "{B29E2802-C826-4EBF-B59F-D22FBE12F5D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6A6BED8C-32D7-40AB-B7FE-34EECDB486E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A6BED8C-32D7-40AB-B7FE-34EECDB486E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A6BED8C-32D7-40AB-B7FE-34EECDB486E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29E2802-C826-4EBF-B59F-D22FBE12F5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29E2802-C826-4EBF-B59F-D22FBE12F5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29E2802-C826-4EBF-B59F-D22FBE12F5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29E2802-C826-4EBF-B59F-D22FBE12F5D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
